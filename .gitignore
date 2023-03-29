@@ -5,7 +5,7 @@ build/
 devel/
 map1.txt
 map2.txt
-*.
+.*
 token.md
 *~
 
