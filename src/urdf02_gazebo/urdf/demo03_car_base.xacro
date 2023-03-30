@@ -13,6 +13,7 @@
     <xacro:property name="earth_space" value="0.015" /> 
     <xacro:property name="base_link_m" value="0.5" /> 
 
+
      <link name="base_footprint">
       <visual>
         <geometry>
